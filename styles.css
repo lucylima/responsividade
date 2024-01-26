@@ -95,6 +95,7 @@ button {
 @media screen and (max-width: 660px) {
   nav {
     padding: 10px ;
+    margin: 10px;
   }
   nav ul {
     padding: 3px;
